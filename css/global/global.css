@@ -9,11 +9,20 @@ ul{
 
 img{
     max-width: 100%;
+    display: block;
+}
+
+img[src$=".jpg"]{
+    border-radius: 4px;
 }
 
 a{
     text-decoration: none;
     color: inherit;
+}
+
+a:focus{
+    outline: 2px solid var(--cor-p1);
 }
 
 body{
