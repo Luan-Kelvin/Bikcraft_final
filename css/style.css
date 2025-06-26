@@ -1,12 +1,15 @@
 @import "global/header.css";
 @import "global/global.css";
+@import "global/footer.css";
 
 /* HOME */
 @import "home/introducao.css";
 @import "home/tecnologia.css";
 @import "home/parceiros.css";
 @import "home/depoimento.css";
-@import "home/seguros.css";
+
+/* SEGUROS */
+@import "seguros/seguros.css";
 
 /* UTILIDADES */
 @import "utilidades/componentes.css";
