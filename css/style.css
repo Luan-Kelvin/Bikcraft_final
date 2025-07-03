@@ -11,6 +11,9 @@
 /* SEGUROS */
 @import "seguros/seguros.css";
 
+/* TERMOS */
+@import "termos/termos.css";
+
 /* UTILIDADES */
 @import "utilidades/componentes.css";
 @import "utilidades/tipografia.css";
@@ -18,3 +21,4 @@
 
 /* BICICLETAS */
 @import "bicicletas/bicicletas-lista.css";
+@import "bicicletas/bicicletas.css";
